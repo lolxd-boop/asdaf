@@ -2917,3 +2917,42 @@ java.lang.NullPointerException: Element not found: amount
 [23Dec2024 15:31:23.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [I Found It Underground]
 [23Dec2024 15:32:01.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Monster Hunter]
 [23Dec2024 15:32:11.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Stone Age]
+[23Dec2024 15:33:57.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Spore]
+[23Dec2024 15:34:46.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Sweet Dreams]
+[23Dec2024 15:34:50.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 lost connection: Disconnected
+[23Dec2024 15:34:50.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 left the game
+[23Dec2024 15:35:03.802] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Santired123 is 1bb6479e-4441-47ad-b1dc-ff12da7bda25
+[23Dec2024 15:35:04.043] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[23Dec2024 15:35:04.223] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[23Dec2024 15:35:04.224] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[23Dec2024 15:35:04.225] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[23Dec2024 15:35:04.226] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[23Dec2024 15:35:04.402] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[23Dec2024 15:35:04.433] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[23Dec2024 15:35:04.433] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[23Dec2024 15:35:04.581] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[23Dec2024 15:35:04.583] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[23Dec2024 15:35:04.612] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[23Dec2024 15:35:04.612] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[23Dec2024 15:35:04.987] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[23Dec2024 15:35:05.029] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[23Dec2024 15:35:05.029] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[23Dec2024 15:35:05.155] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[23Dec2024 15:35:09.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santired123[/127.163.243.183:32809] logged in with entity id 11272 at (123.54522290744748, 103.0, 30.69999998807907)
+[23Dec2024 15:35:09.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 joined the game
+[23Dec2024 15:35:09.399] [Server thread/INFO] [Jade/]: Syncing config to Santired123 (1bb6479e-4441-47ad-b1dc-ff12da7bda25)
+[23Dec2024 15:35:39.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Acquire Hardware]
+[23Dec2024 15:38:19.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Spore]
+[23Dec2024 15:38:47.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has succumbed to the infection
+[23Dec2024 15:38:47.050] [Server thread/INFO] [tombstone/]: The player Santired123 has successfully been saved
+[23Dec2024 15:38:53.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito was eaten alive by Santired123
+[23Dec2024 15:38:53.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Your First Grave]
+[23Dec2024 15:38:53.293] [Server thread/INFO] [tombstone/]: The player mexucito has successfully been saved
+[23Dec2024 15:38:54.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [The Most Useful Key]
+[23Dec2024 15:39:18.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito was eaten alive by Santired123
+[23Dec2024 15:39:18.789] [Server thread/INFO] [tombstone/]: The player mexucito has successfully been saved
+[23Dec2024 15:39:40.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mexucito'/13913, l='ServerLevel[world]', x=358.24, y=64.30, z=13.30] died: mexucito was slain by Santired123
+[23Dec2024 15:39:46.897] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mexucito'/14118, l='ServerLevel[world]', x=358.58, y=65.02, z=13.49] died: mexucito was slain by Santired123
+[23Dec2024 15:39:53.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Santired123'/13812, l='ServerLevel[world]', x=356.37, y=64.75, z=11.70] died: Santired123 was slain by mexucito
+[23Dec2024 15:40:13.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Suit Up]
+[23Dec2024 15:42:22.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [How'd You Get This?]
