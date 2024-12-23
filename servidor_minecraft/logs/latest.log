@@ -3013,3 +3013,6 @@ java.lang.NullPointerException: Element not found: amount
 [23Dec2024 17:01:18.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Olivia'/42952, l='ServerLevel[world]', x=27.50, y=65.00, z=80.50] died: Olivia was slain by mexucito
 [23Dec2024 17:01:28.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has completed the challenge [He Wasn't So Strong]
 [23Dec2024 17:04:20.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23Dec2024 17:15:01.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3824ms or 76 ticks behind
+[23Dec2024 17:15:29.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13791ms or 275 ticks behind
+[23Dec2024 17:17:08.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Close Quarters]
