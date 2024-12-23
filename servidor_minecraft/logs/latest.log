@@ -2974,3 +2974,14 @@ java.lang.NullPointerException: Element not found: amount
 [23Dec2024 15:52:04.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mexucito: Teleported mexucito to Santired123]
 [23Dec2024 15:52:10.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has reached the goal [Here They Come]
 [23Dec2024 15:52:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Close Quarters]
+[23Dec2024 15:59:38.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Not Today, Thank You]
+[23Dec2024 16:04:22.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 was slain by mexucito
+[23Dec2024 16:04:22.633] [Server thread/INFO] [tombstone/]: The player Santired123 has successfully been saved
+[23Dec2024 16:04:38.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito was slain by Santired123
+[23Dec2024 16:04:38.500] [Server thread/INFO] [tombstone/]: The player mexucito has successfully been saved
+[23Dec2024 16:05:01.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has reached the goal [Bone Crusher]
+[23Dec2024 16:05:03.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Take Aim]
+[23Dec2024 16:05:10.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Take Aim]
+[23Dec2024 16:07:50.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Knowledge raises the soul]
+[23Dec2024 16:10:38.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 moved too quickly! 4.702647380871593,-9.208821637181856,-1.2889605917411302
+[23Dec2024 16:11:19.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Teleported Santired123 to mexucito]

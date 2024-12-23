@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-23 16:05:03 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_crafting_table": "2024-12-23 15:33:43 +0000"
@@ -343,6 +349,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-23 15:49:58 +0000",
       "minecraft:husk": "2024-12-23 15:45:29 +0000"
     },
     "done": false
@@ -374,6 +381,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-23 15:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-23 15:49:59 +0000"
     },
     "done": true
   },
@@ -410,6 +423,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-12-23 15:35:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 15:52:10 +0000"
     },
     "done": true
   },
@@ -473,6 +492,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 15:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-23 15:35:02 +0000"
@@ -500,6 +525,12 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2024-12-23 15:33:37 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2024-12-23 15:49:59 +0000"
     },
     "done": true
   },
@@ -735,6 +766,18 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-23 15:46:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-12-23 15:49:59 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2024-12-23 15:49:59 +0000"
     },
     "done": true
   },
@@ -1027,6 +1070,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-23 15:29:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 15:49:58 +0000"
     },
     "done": true
   },
