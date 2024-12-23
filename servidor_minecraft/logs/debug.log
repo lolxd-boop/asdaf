@@ -10343,3 +10343,31 @@ java.lang.NullPointerException: Element not found: amount
 [23Dec2024 16:35:50.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 16:40:50.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 16:40:50.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:45:50.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:45:50.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:50:50.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:50:50.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:55:11.131] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:55:50.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:55:50.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:56:40.867] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:06.916] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:07.966] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:09.168] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:10.147] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:11.172] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:11.834] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:12.502] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:13.150] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:13.820] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:14.598] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:15.632] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:16.445] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:58:17.095] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 16:59:22.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/42553, l='ServerLevel[world]', x=-1.72, y=63.00, z=91.63] died: Honeyed Archer was shot by mexucito
+[23Dec2024 17:00:07.535] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:00:51.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 17:00:51.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 17:01:18.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Olivia'/42952, l='ServerLevel[world]', x=27.50, y=65.00, z=80.50] died: Olivia was slain by mexucito
+[23Dec2024 17:01:28.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has completed the challenge [He Wasn't So Strong]
+[23Dec2024 17:02:56.687] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
