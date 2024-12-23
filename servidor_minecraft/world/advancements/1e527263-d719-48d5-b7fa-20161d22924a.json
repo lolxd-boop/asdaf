@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-23 17:03:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-23 17:00:08 +0000"
@@ -395,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-23 17:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-23 15:27:14 +0000"
@@ -460,7 +472,8 @@
       "minecraft:skeleton": "2024-12-23 15:49:58 +0000",
       "minecraft:spider": "2024-12-23 16:59:57 +0000",
       "minecraft:creeper": "2024-12-23 16:59:33 +0000",
-      "minecraft:husk": "2024-12-23 15:45:29 +0000"
+      "minecraft:husk": "2024-12-23 15:45:29 +0000",
+      "minecraft:stray": "2024-12-23 17:01:18 +0000"
     },
     "done": false
   },
@@ -494,6 +507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-23 17:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-23 15:49:59 +0000"
@@ -509,6 +528,12 @@
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2024-12-23 15:28:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-12-23 17:03:15 +0000"
     },
     "done": true
   },
@@ -557,6 +582,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-12-23 15:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-23 17:03:15 +0000"
     },
     "done": true
   },
@@ -746,6 +777,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2024-12-23 17:05:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 15:35:39 +0000"
@@ -779,6 +816,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 15:35:39 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-23 17:01:27 +0000"
     },
     "done": true
   },
@@ -861,6 +904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-23 17:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-23 15:32:11 +0000"
@@ -933,6 +982,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2024-12-23 17:05:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-23 15:38:53 +0000"
@@ -1002,6 +1057,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-23 15:46:57 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-23 17:01:28 +0000"
     },
     "done": true
   },
@@ -1176,6 +1237,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-23 15:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-23 17:03:15 +0000"
     },
     "done": true
   },
@@ -1409,6 +1476,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-23 15:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-23 17:03:15 +0000"
     },
     "done": true
   },

@@ -10371,3 +10371,26 @@ java.lang.NullPointerException: Element not found: amount
 [23Dec2024 17:01:18.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Olivia'/42952, l='ServerLevel[world]', x=27.50, y=65.00, z=80.50] died: Olivia was slain by mexucito
 [23Dec2024 17:01:28.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has completed the challenge [He Wasn't So Strong]
 [23Dec2024 17:02:56.687] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:04:20.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23Dec2024 17:05:53.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 17:05:53.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 17:10:53.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 17:10:53.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 17:12:44.202] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:12:44.786] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:12:45.681] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:12:46.502] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:12:47.327] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:12:48.140] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:12:50.720] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:12:54.546] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:12:55.229] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:12:55.996] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:12:57.179] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:12:58.038] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:12:58.880] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:13:00.538] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:13:11.235] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:13:11.527] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:14:16.629] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 17:14:16.691] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0

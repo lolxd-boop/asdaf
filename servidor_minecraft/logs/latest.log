@@ -3012,3 +3012,4 @@ java.lang.NullPointerException: Element not found: amount
 [23Dec2024 16:59:22.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/42553, l='ServerLevel[world]', x=-1.72, y=63.00, z=91.63] died: Honeyed Archer was shot by mexucito
 [23Dec2024 17:01:18.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Olivia'/42952, l='ServerLevel[world]', x=27.50, y=65.00, z=80.50] died: Olivia was slain by mexucito
 [23Dec2024 17:01:28.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has completed the challenge [He Wasn't So Strong]
+[23Dec2024 17:04:20.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
