@@ -9576,3 +9576,116 @@ java.lang.NullPointerException: Element not found: amount
 [23Dec2024 23:44:12.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 23:45:03.019] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [23Dec2024 23:45:20.839] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:46:34.944] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:46:39.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[23Dec2024 23:46:57.314] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:46:57.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Stone Age]
+[23Dec2024 23:46:58.309] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:46:58.975] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:46:59.864] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:00.464] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:01.098] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:01.818] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:02.616] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:05.271] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:05.954] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:06.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[23Dec2024 23:47:06.717] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:08.198] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:09.201] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:09.997] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:10.677] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:11.261] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:12.283] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:13.010] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:13.746] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:14.465] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:15.112] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:15.805] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:16.625] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:17.302] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:18.037] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:18.819] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:25.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4272ms or 85 ticks behind
+[23Dec2024 23:47:25.631] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:26.367] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:27.176] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:27.178] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:31.021] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:31.055] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:40.079] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:40.115] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:40.489] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:42.279] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:42.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[23Dec2024 23:47:43.127] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:45.198] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:46.423] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:47.230] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:48.060] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:49.317] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:50.469] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:47:59.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[23Dec2024 23:48:21.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6335ms or 126 ticks behind
+[23Dec2024 23:48:21.981] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:48:21.982] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:48:23.866] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:48:23.867] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:48:41.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5345ms or 106 ticks behind
+[23Dec2024 23:48:59.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3157ms or 63 ticks behind
+[23Dec2024 23:49:25.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10511ms or 210 ticks behind
+[23Dec2024 23:49:44.512] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:49:45.636] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:49:46.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6186ms or 123 ticks behind
+[23Dec2024 23:49:47.192] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:49:48.550] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:50:00.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 23:50:00.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 23:50:08.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7635ms or 152 ticks behind
+[23Dec2024 23:50:22.728] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:50:23.042] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:50:23.384] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:50:39.114] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/13471, l='ServerLevel[world]', x=1189.55, y=76.00, z=-566.88] died, message: 'Armorer was slain by Husk'
+[23Dec2024 23:51:08.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[23Dec2024 23:51:28.375] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:51:29.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6338ms or 126 ticks behind
+[23Dec2024 23:51:34.916] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:51:35.467] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:51:35.915] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:51:36.531] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:51:37.607] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:51:52.634] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:51:53.763] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:52:59.964] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:01.925] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:02.989] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:03.747] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:04.404] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:05.193] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:05.780] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:06.531] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:07.333] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:08.834] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:09.369] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:10.096] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:10.985] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:11.626] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:12.643] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:13.478] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:14.407] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:53:15.181] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:54:07.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Amateur Archaeologist]
+[23Dec2024 23:54:16.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Dec2024 23:54:53.491] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:54:54.570] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:55:15.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 23:55:15.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 23:55:18.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[23Dec2024 23:55:24.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 was slain by Husk
+[23Dec2024 23:55:24.093] [Server thread/DEBUG] [tombstone/]: A new grave of the player Santired123 was created at position [x:1190, y:87, z:-563, dim:minecraft:overworld]
+[23Dec2024 23:55:24.142] [Server thread/INFO] [tombstone/]: The player Santired123 has successfully been saved
+[23Dec2024 23:55:35.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2288ms or 45 ticks behind
+[23Dec2024 23:55:54.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3693ms or 73 ticks behind
+[23Dec2024 23:55:56.050] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:55:56.392] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[23Dec2024 23:56:11.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
