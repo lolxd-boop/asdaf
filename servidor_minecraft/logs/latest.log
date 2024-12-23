@@ -2956,3 +2956,21 @@ java.lang.NullPointerException: Element not found: amount
 [23Dec2024 15:39:53.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Santired123'/13812, l='ServerLevel[world]', x=356.37, y=64.75, z=11.70] died: Santired123 was slain by mexucito
 [23Dec2024 15:40:13.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Suit Up]
 [23Dec2024 15:42:22.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [How'd You Get This?]
+[23Dec2024 15:45:29.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Monster Hunter]
+[23Dec2024 15:45:33.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [A Strange Grave Dust]
+[23Dec2024 15:46:56.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Barrel Booty]
+[23Dec2024 15:46:56.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Disme A Dozen]
+[23Dec2024 15:46:57.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Barrel Booty]
+[23Dec2024 15:47:23.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Far From Perfect]
+[23Dec2024 15:47:30.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Disme A Dozen]
+[23Dec2024 15:47:40.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Ice Bucket Challenge]
+[23Dec2024 15:49:12.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [A Strange Grave Dust]
+[23Dec2024 15:49:58.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Knowledge of Death]
+[23Dec2024 15:49:58.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Ashes 'n Bones]
+[23Dec2024 15:51:41.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito was slain by Skeleton
+[23Dec2024 15:51:41.387] [Server thread/INFO] [tombstone/]: The player mexucito has successfully been saved
+[23Dec2024 15:51:48.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23Dec2024 15:51:56.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Ashes 'n Bones]
+[23Dec2024 15:52:04.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mexucito: Teleported mexucito to Santired123]
+[23Dec2024 15:52:10.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has reached the goal [Here They Come]
+[23Dec2024 15:52:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Close Quarters]
