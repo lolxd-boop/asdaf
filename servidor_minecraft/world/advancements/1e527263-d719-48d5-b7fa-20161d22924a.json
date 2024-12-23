@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-23 15:28:58 +0000"
@@ -107,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-23 16:10:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-23 15:32:11 +0000"
@@ -122,6 +134,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 15:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
     },
     "done": true
   },
@@ -167,6 +185,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/quiver": {
     "criteria": {
       "has_leather": "2024-12-23 15:36:27 +0000"
@@ -188,6 +212,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-23 15:29:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
     },
     "done": true
   },
@@ -221,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-23 16:11:40 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-23 15:27:14 +0000"
@@ -242,6 +278,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-23 15:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-23 16:10:17 +0000"
     },
     "done": true
   },
@@ -408,6 +450,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-12-23 15:35:02 +0000"
@@ -441,6 +489,18 @@
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2024-12-23 15:28:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
     },
     "done": true
   },
@@ -546,6 +606,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-23 15:29:00 +0000"
@@ -594,6 +660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-23 16:11:40 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 15:35:39 +0000"
@@ -631,9 +703,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 15:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-23 16:11:40 +0000"
     },
     "done": true
   },
@@ -673,6 +757,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-23 15:27:14 +0000"
@@ -691,6 +787,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-23 15:33:43 +0000"
@@ -706,6 +808,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-23 15:33:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
     },
     "done": true
   },
@@ -769,6 +877,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2024-12-23 15:49:59 +0000"
@@ -790,6 +910,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-23 15:47:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
     },
     "done": true
   },
@@ -820,6 +946,12 @@
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 15:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
     },
     "done": true
   },
@@ -889,6 +1021,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-23 16:16:16 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2024-12-23 15:29:00 +0000"
@@ -904,6 +1042,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-23 15:31:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
     },
     "done": true
   },
@@ -1026,6 +1170,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-23 15:37:45 +0000",
+      "pumpkin_pie": "2024-12-23 16:11:02 +0000",
       "bread": "2024-12-23 15:37:33 +0000",
       "rotten_flesh": "2024-12-23 15:45:41 +0000"
     },
@@ -1142,6 +1287,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 15:35:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-23 16:11:27 +0000"
     },
     "done": true
   },

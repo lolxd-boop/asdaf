@@ -2985,3 +2985,21 @@ java.lang.NullPointerException: Element not found: amount
 [23Dec2024 16:07:50.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Knowledge raises the soul]
 [23Dec2024 16:10:38.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 moved too quickly! 4.702647380871593,-9.208821637181856,-1.2889605917411302
 [23Dec2024 16:11:19.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Teleported Santired123 to mexucito]
+[23Dec2024 16:16:16.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Far From Perfect]
+[23Dec2024 16:16:46.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [What a Deal!]
+[23Dec2024 16:19:02.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23Dec2024 16:19:22.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5664ms or 113 ticks behind
+[23Dec2024 16:19:41.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3267ms or 65 ticks behind
+[23Dec2024 16:20:01.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4934ms or 98 ticks behind
+[23Dec2024 16:20:20.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4444ms or 88 ticks behind
+[23Dec2024 16:20:42.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6588ms or 131 ticks behind
+[23Dec2024 16:21:02.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5148ms or 102 ticks behind
+[23Dec2024 16:21:23.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6248ms or 124 ticks behind
+[23Dec2024 16:21:43.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5208ms or 104 ticks behind
+[23Dec2024 16:22:01.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has reached the goal [Bone Crusher]
+[23Dec2024 16:22:05.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6673ms or 133 ticks behind
+[23Dec2024 16:22:19.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Knowledge raises the soul]
+[23Dec2024 16:22:26.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6442ms or 128 ticks behind
+[23Dec2024 16:22:49.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8194ms or 163 ticks behind
+[23Dec2024 16:23:12.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8063ms or 161 ticks behind
+[23Dec2024 16:23:35.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7891ms or 157 ticks behind

@@ -1000,6 +1000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-23 16:18:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-23 15:49:12 +0000"
@@ -1009,6 +1015,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-23 15:46:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-23 16:18:49 +0000"
     },
     "done": true
   },
@@ -1042,6 +1054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-23 16:15:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2024-12-23 15:47:07 +0000"
@@ -1051,6 +1069,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-23 15:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-23 16:16:46 +0000"
     },
     "done": true
   },
@@ -1069,6 +1093,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-23 15:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 16:15:06 +0000"
     },
     "done": true
   },
@@ -1105,6 +1135,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-23 15:52:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-23 16:18:49 +0000"
     },
     "done": true
   },
@@ -1201,6 +1237,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-23 15:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-23 16:18:49 +0000"
     },
     "done": true
   },
