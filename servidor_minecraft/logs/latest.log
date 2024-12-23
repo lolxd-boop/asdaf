@@ -2866,3 +2866,54 @@ java.lang.NullPointerException: Element not found: amount
 [23Dec2024 15:21:28.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 was eaten alive by Plagued
 [23Dec2024 15:21:28.756] [Server thread/INFO] [tombstone/]: The player Santired123 has successfully been saved
 [23Dec2024 15:22:06.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Santired123 a server operator
+[23Dec2024 15:22:36.380] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_snowy) took 1 ms
+[23Dec2024 15:22:49.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Teleported Santired123 to 384.500000, 91.000000, 64.500000]
+[23Dec2024 15:22:49.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8605ms or 172 ticks behind
+[23Dec2024 15:23:13.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Dec2024 15:23:15.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Sweet Dreams]
+[23Dec2024 15:23:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Not a Diamond]
+[23Dec2024 15:25:14.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Acquire Hardware]
+[23Dec2024 15:27:06.732] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player mexucito is 1e527263-d719-48d5-b7fa-20161d22924a
+[23Dec2024 15:27:07.018] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[23Dec2024 15:27:07.180] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[23Dec2024 15:27:07.222] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[23Dec2024 15:27:07.222] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[23Dec2024 15:27:07.222] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[23Dec2024 15:27:07.223] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[23Dec2024 15:27:07.367] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[23Dec2024 15:27:07.374] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[23Dec2024 15:27:07.375] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[23Dec2024 15:27:07.418] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[23Dec2024 15:27:07.517] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[23Dec2024 15:27:07.520] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[23Dec2024 15:27:08.076] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[23Dec2024 15:27:08.079] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[23Dec2024 15:27:08.098] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[23Dec2024 15:27:08.154] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[23Dec2024 15:27:14.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mexucito[/127.163.243.183:49799] logged in with entity id 6195 at (2.5, 108.0, -3.5)
+[23Dec2024 15:27:14.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito joined the game
+[23Dec2024 15:27:14.356] [Server thread/INFO] [Jade/]: Syncing config to mexucito (1e527263-d719-48d5-b7fa-20161d22924a)
+[23Dec2024 15:27:14.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Christmas]
+[23Dec2024 15:27:38.134] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shoes] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Dec2024 15:27:38.135] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_helmet] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Dec2024 15:27:38.135] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_chestplate] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Dec2024 15:27:38.136] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_leggings] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Dec2024 15:27:38.136] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_range] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Dec2024 15:27:38.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shield] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Dec2024 15:27:38.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_digger] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Dec2024 15:27:38.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_melee] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[23Dec2024 15:27:38.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_less_material_cost] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[23Dec2024 15:27:38.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_more_combine_durability] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[23Dec2024 15:27:46.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Honeyed Archer'/6064, l='ServerLevel[world]', x=258.65, y=65.25, z=91.02] died: Honeyed Archer suffocated in a wall
+[23Dec2024 15:28:24.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Isn't It Iron Pick]
+[23Dec2024 15:28:43.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Made mexucito a server operator]
+[23Dec2024 15:28:45.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement ['X' Marks the Spot]
+[23Dec2024 15:28:58.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Isn't It Iron Pick]
+[23Dec2024 15:28:58.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Apothic Affixes]
+[23Dec2024 15:29:00.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Diamonds!]
+[23Dec2024 15:29:00.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Not a Diamond]
+[23Dec2024 15:29:53.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santired123> [x:385, y:62, z:59, dim:minecraft:overworld]
+[23Dec2024 15:31:23.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has reached the goal [Worthy Equipment]
+[23Dec2024 15:31:23.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [I Found It Underground]
+[23Dec2024 15:32:01.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Monster Hunter]
+[23Dec2024 15:32:11.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Stone Age]
